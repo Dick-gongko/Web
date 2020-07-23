@@ -943,7 +943,7 @@ HTML现在只负责语义，而不负责样式。但是HTML一开始，连样式
 	<b>加粗</b>
 	<u>下划线</u>
 	<i>倾斜</i>
-    <del>删除线</del>
+        <del>删除线</del>
 	<em>强调</em>
 	<strong>强调</strong>
 
